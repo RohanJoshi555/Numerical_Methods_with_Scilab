@@ -1,6 +1,5 @@
 //Name:Rohan Joshi
-//Roll No.:20HPH2655
-//Topic:Fit given data to Curve: y=A*x^b
+//Fit given data to Curve: y=A*x^b
 clc
 clf
 
