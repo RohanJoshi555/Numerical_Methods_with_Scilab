@@ -1,6 +1,5 @@
 //Name:Rohan Joshi
-//Roll No.:20HPH2655
-//Topic: To solve Second Order Linear Differential Equation of the form y''=p(x)y'+q(x)y+r(x) using Finite Difference Method
+//To solve Second Order Linear Differential Equation of the form y''=p(x)y'+q(x)y+r(x) using Finite Difference Method
 
 clear;clc;clf
 
