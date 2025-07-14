@@ -1,6 +1,5 @@
 //Name:Rohan Joshi
-//Roll No.:20HPH2655
-//Topic:Fit given data to Quadratic Equation
+//Fit given data to Quadratic Equation
 clc
 clf
 x=[-8.3,-4.8,-4.1,-0.9,2.9,4.7,6.5,8.7]
