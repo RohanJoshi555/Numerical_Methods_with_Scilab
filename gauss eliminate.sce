@@ -1,6 +1,5 @@
 //Name:Rohan Joshi
-//Roll No.:20HPH2655
-//Problem 2: To solve the given system of linear equations using gauss elimination method
+//To solve the given system of linear equations using gauss elimination method
 clc
 A=[0,3,-4;2,-5,7;-1,0,-9]
 b=[16;-27;9]
