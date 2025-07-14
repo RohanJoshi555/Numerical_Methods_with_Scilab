@@ -1,6 +1,5 @@
 //Name:Rohan Joshi
-//Roll No.:20HPH2655
-//Topic:Fit given data to Exponential curve
+//Fit given data to Exponential curve
 clc
 clf
 
